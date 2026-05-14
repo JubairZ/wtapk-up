@@ -1,12 +1,15 @@
 {
-  "version": "1.1.1",
-  "versionCode": 3,
-  "downloadUrl": "https://github.com/JubairZ/wtapk-up/releases/download/v1.1.1/web-to-apk-v1.1.1.apk",
-  "changelog": "fix: crash on open — FlutterDownloader init, FlutterFragmentActivity, ProGuard disabled",
+  "version": "1.2.0",
+  "versionCode": 4,
+  "downloadUrl": "https://github.com/JubairZ/wtapk-up/releases/download/v1.2.0/web-to-apk-v1.2.0.apk",
+  "changelog": "Swipe navigation, Offline banner, QR Share, Copy URL, Text size control, Settings screen, Usage analytics, Retry update service. All text in English.",
   "forceUpdate": false,
-  "releaseDate": "2026-05-14T11:03:40Z",
+  "releaseDate": "2026-05-14T12:46:25Z",
+  "apkSize": "23M",
+  "minAndroidApi": 21,
   "poweredBy": "Jubair Sensei",
-  "github": "https://github.com/jubairbro",
+  "website": "https://jubair.bro.bd",
   "youtube": "https://youtube.com/@jubairsensei",
-  "telegram": "https://t.me/JubairSensei"
+  "telegram": "https://t.me/JubairSensei",
+  "github": "https://github.com/jubairbro"
 }
